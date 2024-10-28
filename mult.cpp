@@ -9,21 +9,3 @@ int main(int avgc, char* avgv[]) {
 	}
 	return EXIT_SUCCESS;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
