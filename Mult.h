@@ -1,9 +1,8 @@
-	/*	cout<<(c&b)<<flush;	//0  //1	//0
+/*	cout<<(c&b)<<flush;	//0  //1	//0
 	cout<<(c>>1&b)<<flush;	//1  //0	//0
 	cout<<(c>>2&b)<<flush;	//2  //1	//2
 	cout<<(c>>3&b)<<flush;	//3  //1	//3
-	a=((a<<3)+(a<<2)+(a<<0));
-	cout<<a;*/
+	a=((a<<3)+(a<<2)+(a<<0));*/
 #ifndef MULT_H
 #define MULT_H
 int cbit(int x){
